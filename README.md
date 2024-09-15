@@ -5,7 +5,7 @@
 
 > Passo a passo:
 1. Iniciar no terminal o server: `python server.py`
-2. Em outro terminal, inicie o app: `python main.py`
-3. Em outro terminal, inicie o app novamente: `python main.py`
+2. Em outro terminal, inicie o app: `python entrada.py`
+3. Em outro terminal, inicie o app novamente: `python entrada.py`
 
 [Mini curso de estilização com Tkinter](https://www.youtube.com/watch?v=RtrZcoVD1WM&list=PLqx8fDb-FZDFznZcXb_u_NyiQ7Nai674-)
